@@ -1,2 +1,2 @@
-const usuario = parseInt(prompt("Ingrese el nombre de usuario"));
-document.writeln("Hola nombreUsuario")
+const usuario = prompt("Ingrese el nombre de usuario");
+document.writeln("Hola " + (usuario))
