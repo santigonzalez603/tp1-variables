@@ -1,18 +1,18 @@
 const numero1 = parseInt(prompt("Ingrese un número"));
 if(numero1 % 2 === 0 || numero1 % 3 === 0 || numero1 % 5 === 0 || numero1 % 7 === 0){
     if(numero1 % 2 === 0){
-        document.writeln("Es divisible por 2");
+        document.writeln("El ",numero1," es divisible por 2");
     }
     if(numero1 % 3 === 0){
-        document.writeln("Es divisible por 3");
+        document.writeln("es divisible por 3");
     }
     if(numero1 % 5 === 0){
-        document.writeln("Es divisible por 5");
+        document.writeln("es divisible por 5");
     }
     if(numero1 % 7 === 0){
-        document.writeln("Es divisible por 7");
+        document.writeln("es divisible por 7");
     }
 }
 else{
-    document.writeln("No es divisible por 2, ni por 3, ni por 5, ni por 7");
+    document.writeln("El ",numero1," no es divisible ni por 2, ni por 3, ni por 5, ni por 7");
 }
