@@ -2,28 +2,28 @@
 
 Este repositorio contiene una serie de ejercicios realizados con este lenguaje
 
-## 📂Demo
+## 📂Repositorio
 
 El repositorio ya esta en funcionamiento [aqui](https://github.com/santigonzalez603/tp1-variables)
 
 ## 🛠️Tecnologias Utilizadas
 
--Html5
--JavaScript
+* Html5
+* JavaScript
 
 ## 📦Caracteristicas 
 
-Este proyecto esta hecho con:
+Este repositorio esta hecho con:
 
--Variables
--Condicionales
+* Variables
+* Condicionales
 
-## 📌Como ejecutar el proyecto 
+## 📌Como ejecutar el repositorio
 
-Para ejecutar el proyecto en su maquina local:
+Para ejecutar el repositorio en su maquina local:
 
-1_ Clonar el repositorio: ```git clone https://github.com/santigonzalez603/tp1-variables```
-2_ Abrir el `index.html` de la carpeta creada
+1. Clonar el repositorio: ```git clone https://github.com/santigonzalez603/tp1-variables```
+2. Abrir el `index.html` de la carpeta creada
 
 ## 👥Autor
 
